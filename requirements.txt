@@ -1,0 +1,1 @@
+-e git+https://github.com/python/mypy@2d30dbaa34eab9d7519e440480f360fc9a1e65c3#egg=mypy

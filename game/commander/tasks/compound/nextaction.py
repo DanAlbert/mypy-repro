@@ -1,0 +1,1 @@
+from game.commander.tasks.compound.defendbases import DefendBases
